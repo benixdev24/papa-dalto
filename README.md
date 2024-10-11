@@ -1,5 +1,5 @@
 # papa-dalto
 Primer repo creado en github
 
-##descripción
+## descripción
 Este es un repo de soydalto, creado solo para el curso de git
